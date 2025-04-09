@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "sftp.host",
+    "type": "java.lang.String",
+    "description": "SFTP host name"
+  },
+  {
+    "name": "sftp.port",
+    "type": "java.lang.String",
+    "description": "SFTP port number"
+  },
+  {
+    "name": "sftp.username",
+    "type": "java.lang.String",
+    "description": "SFTP username"
+  },
+  {
+    "name": "sftp.password",
+    "type": "java.lang.String",
+    "description": "SFTP password"
+  },
+  {
+    "name": "sftp.known-hosts",
+    "type": "java.lang.String",
+    "description": "Path to the known hosts file"
+  },
+  {
+    "name": "sftp.session-timeout",
+    "type": "java.lang.String",
+    "description": "SFTP session timeout in milliseconds"
+  },
+  {
+    "name": "sftp.channel-timeout",
+    "type": "java.lang.String",
+    "description": "SFTP channel timeout in milliseconds"
+  },
+  {
+    "name": "sftp.integrity-check",
+    "type": "java.lang.String",
+    "description": "SFTP integrity check algorithm to use none|size|sha256"
+  },
+  {
+    "name": "sftp.local-base-path",
+    "type": "java.lang.String",
+    "description": "Local base path for SFTP operations"
+  },
+  {
+    "name": "sftp.remote-base-path",
+    "type": "java.lang.String",
+    "description": "Remote base path for SFTP operations"
+  },
+  {
+    "name": "sftp.delete-source-dir",
+    "type": "java.lang.String",
+    "description": "SFTP delete source directory after transfer no|yes"
+  }
+]}

@@ -1,0 +1,297 @@
+2025-04-09T07:46:50.993+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:52:40.166+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:54:51.270+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:54:52.708+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:54:55.159+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:54:59.650+05:30 ERROR 796 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:55:15.202+05:30 ERROR 5656 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.yourpackage' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.yourpackage
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:31
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:56:11.926+05:30 ERROR 16560 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.scb' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.scb
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:23
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:57:02.483+05:30 ERROR 14108 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.scb.filebridge' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.scb.filebridge
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:34
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:58:44.785+05:30 ERROR 5244 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.scb.filebridge' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.scb.filebridge
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:34
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-04-09T07:59:04.339+05:30 ERROR 15340 --- [FileBridge] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.scb.filebridge' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.scb.filebridge
+    Value: "DEBUG  # Replace with your actual base package"
+    Origin: class path resource [application.properties] - 20:34
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.DEBUG  # Replace with your actual base package)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
